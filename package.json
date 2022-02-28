@@ -1,0 +1,39 @@
+{
+  "name": "@dotsharpspace/angular-eslint",
+  "version": "1.0.0",
+  "description": "Angular eslint configuration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamza-saii/dss-angular-eslint.git"
+  },
+  "author": "Hamza SAII <hamza.saii@outlook.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@dotsharpspace/prettier-config": "^1.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.12.1",
+    "@typescript-eslint/parser": "^5.12.1",
+    "@typescript-eslint/type-utils": "^5.12.1",
+    "@typescript-eslint/utils": "^5.12.1",
+    "prettier": "^2.5.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "peerDependencies": {
+    "eslint": "^8.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/hamza-saii/dss-angular-eslint/issues"
+  },
+  "homepage": "https://github.com/hamza-saii/dss-angular-eslint#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "angular",
+    "dotsharpspace"
+  ]
+}
